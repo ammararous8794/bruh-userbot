@@ -1,0 +1,12 @@
+config.env
+__pycache__/*
+*.session
+*.session-journal
+*.db
+userbot/__pycache__/*
+userbot/modules/__pycache__/*
+.progress
+.vscode/*
+.idea/*
+*secret*
+error.log
